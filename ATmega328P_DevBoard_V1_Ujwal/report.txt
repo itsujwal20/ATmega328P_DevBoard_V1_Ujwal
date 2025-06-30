@@ -1,0 +1,13 @@
+Warning: Width correction constrained.  The width correction value must be in the range of [0.000001 mm; 0.199999 mm] for the current design rules.
+Plotted to 'U:\Documents\KiCaD_Projects\ATmega328P_DevBoard_V1_Ujwal\ATmega328P_DevBoard_V1_Ujwal-F_Cu.gbr'.
+Plotted to 'U:\Documents\KiCaD_Projects\ATmega328P_DevBoard_V1_Ujwal\ATmega328P_DevBoard_V1_Ujwal-B_Cu.gbr'.
+Plotted to 'U:\Documents\KiCaD_Projects\ATmega328P_DevBoard_V1_Ujwal\ATmega328P_DevBoard_V1_Ujwal-F_Paste.gbr'.
+Plotted to 'U:\Documents\KiCaD_Projects\ATmega328P_DevBoard_V1_Ujwal\ATmega328P_DevBoard_V1_Ujwal-B_Paste.gbr'.
+Plotted to 'U:\Documents\KiCaD_Projects\ATmega328P_DevBoard_V1_Ujwal\ATmega328P_DevBoard_V1_Ujwal-F_Silkscreen.gbr'.
+Plotted to 'U:\Documents\KiCaD_Projects\ATmega328P_DevBoard_V1_Ujwal\ATmega328P_DevBoard_V1_Ujwal-B_Silkscreen.gbr'.
+Plotted to 'U:\Documents\KiCaD_Projects\ATmega328P_DevBoard_V1_Ujwal\ATmega328P_DevBoard_V1_Ujwal-F_Mask.gbr'.
+Plotted to 'U:\Documents\KiCaD_Projects\ATmega328P_DevBoard_V1_Ujwal\ATmega328P_DevBoard_V1_Ujwal-B_Mask.gbr'.
+Plotted to 'U:\Documents\KiCaD_Projects\ATmega328P_DevBoard_V1_Ujwal\ATmega328P_DevBoard_V1_Ujwal-Edge_Cuts.gbr'.
+Created Gerber job file 'U:\Documents\KiCaD_Projects\ATmega328P_DevBoard_V1_Ujwal\ATmega328P_DevBoard_V1_Ujwal-job.gbrjob'.
+Info: Done.
+Info: Done.
